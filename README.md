@@ -1,13 +1,12 @@
 # Hi there, I'm David! 🫡
 
 ## ✌️ About Me
-I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I can speak 4 official languages, which are Indonesian, English, Mandarin, and Japanese. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
 
-- 🔭 I’m currently working on [Project Name](Project URL)
-- 🌱 I’m currently learning [Technology/Skill]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: liuleora@gmail.com
-- ⚡ Fun fact: [Fun fact about yourself]
+I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science, and Engineering Program. I can speak four languages: Indonesian, English, Mandarin, and Japanese. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
+
+- 🌱 I’m currently focusing on learning [Web Dev, Data Science, Computer Graphics]
+- 📱 How to reach me: liuleora@gmail.com
+- ⚡ Fun fact: [Hmm...?]
 
 ## ⌨️ Skills スキル
 
@@ -38,35 +37,35 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## 🎓 Education 学歴
-### Sutomo 1 High School, Indonesia
+
+###1️⃣ Sutomo 1 High School, Indonesia
 *July 2016 - May 2019*
-### Electronics and Information Engineering, National Institute of Technology, Ishikawa College
+###2️⃣ Electronics and Information Engineering, National Institute of Technology, Ishikawa College
 *April 2021 – March 2024*
-### Media Science and Engineering Program, The University of Electro-Communications Tokyo
+###3️⃣ Media Science and Engineering Program, The University of Electro-Communications Tokyo
 *April 2024 - Present*
 
 ## 🌟 Achievements 資格
 - **[Certification Name]** by [Issuer]
 
 ## 🌐 Language Certifications
-### Japanese <span style="color: #FF6347;">日本語</span>
+### Japanese 日本語
 - **JLPT N1** (2022)
 - **J-Test A級** (2024)
 
-### English <span style="color: #FF6347;">英語</span>
+### English 英語
 - **IELTS 7.5点** (2018)
 - **TOEIC 980点** (2023)
 
-## 📱 Contact 連絡先
-- **Email:** liuleora@gmail.com
-
 ## GitHub Stats
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%; height: 150px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%; height: 150px;">
 </div>
 
 ## GitHub Trophies
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=6&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 100%;">
 </div>
