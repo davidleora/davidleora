@@ -12,16 +12,16 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - ⚡ Fun fact: [Fun fact about yourself]
 
 ## Skills スキル
-- **Programming Languages（プログラミング言語）:** Pascal, C/C++, C#, Python, Java, HTML, CSS, JavaScript, TypeScript, MATLAB
-- **Frameworks and Libraries（フレームワークとライブラリ）:** React, Node.js
-- **Tools and Platforms（ツールとプラットフォーム）:** AWS, Git, Unity, Unreal Engine 5
+- **Programming Languages（プログラミング言語）:** <br>Pascal, C/C++, C#, Python, Java, HTML, CSS, JavaScript, TypeScript, MATLAB
+- **Frameworks and Libraries（フレームワークとライブラリ）:** <br>React, Node.js
+- **Tools and Platforms（ツールとプラットフォーム）:** <br>AWS, Git, Unity, Unreal Engine 5
 
 ## Education 学歴
-### Sutomo 1 High School, Indonesia<br>（インドネシア、ストモ第１高等学校）
+### Sutomo 1 High School, Indonesia<br>インドネシア、ストモ第１高等学校
 *July 2016 - May 2019*
-### Electronics and Information Engineering, National Institute of Technology, Ishikawa College（石川工業高等専門学校、電子情報工学科）
+### Electronics and Information Engineering, National Institute of Technology, Ishikawa College<br>石川工業高等専門学校、電子情報工学科
 *April 2021 – March 2024*
-### Media Science and Engineering Program, The University of Electro-Communications Tokyo（電気通信大学、メディア科学工学プログラム）
+### Media Science and Engineering Program, The University of Electro-Communications Tokyo<br>電気通信大学、メディア科学工学プログラム
 *April 2024 - Present*
 
 ## Projects プロジェクト
