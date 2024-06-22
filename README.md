@@ -1,8 +1,8 @@
 # Hi there, I'm David! 👋
-# こんにちは、デイビッドです！
+こんにちは、デイビッドです！
 
 ## About Me
-## 自己紹介
+自己紹介
 
 I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science, and Engineering Program. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
 
@@ -20,7 +20,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - 面白い事実：[あなたに関する面白い事実]
 
 ## Skills
-## スキル
+スキル
 
 - **Programming Languages:** Pascal, C/C++, C#, Python, Java, HTML, CSS, JavaScript, TypeScript, MATLAB
 - **プログラミング言語：** Pascal, C/C++, C#, Python, Java, HTML, CSS, JavaScript, TypeScript, MATLAB
@@ -30,7 +30,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - **ツールとプラットフォーム：** AWS, Git, Unity, Unreal Engine 5
 
 ## Education
-## 学歴
+学歴
 
 ### Sutomo 1 High School, Indonesia
 *July 2016 - May 2019*
@@ -48,7 +48,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 *2024年4月 - 現在*
 
 ## Projects
-## プロジェクト
+プロジェクト
 
 ### [Project Name](Project URL)
 ### [プロジェクト名](プロジェクトURL)
@@ -56,7 +56,7 @@ A brief description of the project. Mention the technologies used and what you c
 プロジェクトの簡単な説明。使用した技術とプロジェクトへの貢献を記述してください。
 
 ## Certifications
-## 資格
+資格
 
 - **[Certification Name]** by [Issuer]
 - **[資格名]** [発行元]
@@ -64,7 +64,7 @@ A brief description of the project. Mention the technologies used and what you c
 - **[資格名]** [発行元]
 
 ## Language Certifications
-## 言語資格
+言語資格
 
 ### 日本語
 - **日本語能力試験 N1** (2022年)
@@ -75,17 +75,17 @@ A brief description of the project. Mention the technologies used and what you c
 - **TOEIC 980点** (2023年)
 
 ## Contact
-## 連絡先
+連絡先
 
 - **Email:** liuleora@gmail.com
 - **メール:** liuleora@gmail.com
 
 ## GitHub Stats
-## GitHub統計
+GitHub統計
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical)
 
 ## Top Languages
-## 使用言語
+使用言語
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical)
