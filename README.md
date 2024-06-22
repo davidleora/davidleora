@@ -1,9 +1,7 @@
 # Hi there, I'm David! 🫡
 
 ## ✌️ About Me
-I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
-
-インドネシア出身で、現在東京電機大学情報学部メディア科学工学プログラムの3年生です。日本に住んで5年目で、今後もここに滞在しながらソフトウェアエンジニアリングのキャリアを追求する予定です。現在、大手企業が使用しているさまざまな技術スタック（AWS、Google Cloud Platformなど）に興味があります。まだ初心者なので、アドバイスをいただけると嬉しいです！
+I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I can speak 4 official languages, which are Indonesian, English, Mandarin, and Japanese. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
 
 - 🔭 I’m currently working on [Project Name](Project URL)
 - 🌱 I’m currently learning [Technology/Skill]
@@ -20,6 +18,8 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,26 +27,25 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF9100.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frameworks, Platforms & Libraries:
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## 🎓 Education 学歴
-### Sutomo 1 High School, Indonesia<br><span style="color: #FF6347;">インドネシア、ストモ第１高等学校</span>
+### Sutomo 1 High School, Indonesia
 *July 2016 - May 2019*
-### Electronics and Information Engineering, National Institute of Technology, Ishikawa College<br><span style="color: #FF6347;">石川工業高等専門学校、電子情報工学科</span>
+### Electronics and Information Engineering, National Institute of Technology, Ishikawa College
 *April 2021 – March 2024*
-### Media Science and Engineering Program, The University of Electro-Communications Tokyo<br><span style="color: #FF6347;">電気通信大学、メディア科学工学プログラム</span>
+### Media Science and Engineering Program, The University of Electro-Communications Tokyo
 *April 2024 - Present*
 
-## 🔥 Projects プロジェクト
-### [Project Name](Project URL)
-A brief description of the project. Mention the technologies used and what you contributed to the project.
-
-## 🌟 Certifications 資格
+## 🌟 Achievements 資格
 - **[Certification Name]** by [Issuer]
 
 ## 🌐 Language Certifications
