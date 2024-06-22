@@ -17,19 +17,14 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - **Tools and Platforms（ツールとプラットフォーム）:** AWS, Git, Unity, Unreal Engine 5
 
 ## Education 学歴
-### Sutomo 1 High School, Indonesia
-### インドネシア、ストモ１高校
+### Sutomo 1 High School, Indonesia（インドネシア、ストモ第１高等学校）
 *July 2016 - May 2019*
-
-### Electronics and Information Engineering, National Institute of Technology, Ishikawa College
-### 石川県立工業高等専門学校、電子情報工学科
+### Electronics and Information Engineering, National Institute of Technology, Ishikawa College（石川工業高等専門学校、電子情報工学科）
 *April 2021 – March 2024*
-
-### Media Science and Engineering Program, The University of Electro-Communications Tokyo
-### 電気通信大学東京、メディア科学工学プログラム
+### Media Science and Engineering Program, The University of Electro-Communications Tokyo（電気通信大学、メディア科学工学プログラム）
 *April 2024 - Present*
 
-## Projects
+## Projects プロジェクト
 ### [Project Name](Project URL)
 A brief description of the project. Mention the technologies used and what you contributed to the project.
 
