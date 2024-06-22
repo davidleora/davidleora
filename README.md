@@ -1,5 +1,4 @@
 # Hi there, I'm David! 👋
-# こんにちは、デイビッドです！
 
 ## About Me
 I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
