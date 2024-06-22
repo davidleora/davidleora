@@ -45,11 +45,11 @@ A brief description of the project. Mention the technologies used and what you c
 
 ## GitHub Stats
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%; height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%; height: 150px;">
 </div>
 
 ## GitHub Trophies
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=3&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 48%;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=6&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 100%;">
 </div>
