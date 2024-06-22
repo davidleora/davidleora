@@ -40,13 +40,13 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 ## 🎓 Education 学歴
 
-### 1️⃣  Sutomo 1 High School, Indonesia 私立ストモ第１高等学校
+### 1️⃣  Sutomo 1 High School, Indonesia <br>私立ストモ第１高等学校
    *July 2016 - May 2019*
 
-### 2️⃣  Electronics and Information Engineering, National Institute of Technology, Ishikawa College 石川工業高等専門学校
+### 2️⃣  Electronics and Information Engineering, National Institute of Technology, Ishikawa College <br>石川工業高等専門学校
    *April 2021 – March 2024*
 
-### 3️⃣  Media Science and Engineering Program, The University of Electro-Communications Tokyo 電気通信大学
+### 3️⃣  Media Science and Engineering Program, The University of Electro-Communications Tokyo <br>電気通信大学
    *April 2024 - Present*
 
 <br><br>
