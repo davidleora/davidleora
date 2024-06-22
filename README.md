@@ -4,7 +4,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 - 🌱 I’m currently focusing on learning Web Development, Data Science, and Computer Graphics
 - 📱 How to reach me: liuleora@gmail.com
-- ⚡ Fun fact: I enjoy learning about different cultures and languages!
+- ⚡ Fun fact: I enjoy learning about different cultures and languages! Of course, programming languages included!
 
 <br><br>
 
