@@ -6,6 +6,8 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - 📱 How to reach me: liuleora@gmail.com
 - ⚡ Fun fact: I enjoy learning about different cultures and languages!
 
+<br><br>
+
 ## ⌨️ Skills スキル
 
 ### Languages:
@@ -34,6 +36,8 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+<br><br>
+
 ## 🎓 Education 学歴
 
 ### 1️⃣  Sutomo 1 High School, Indonesia 私立ストモ第１高等学校
@@ -44,6 +48,8 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 ### 3️⃣  Media Science and Engineering Program, The University of Electro-Communications Tokyo 電気通信大学
    *April 2024 - Present*
+
+<br><br>
 
 ## 🌟 Achievements 資格
 
@@ -58,6 +64,8 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 ### 2019年
 - **コンピュータサイエンス部 部長**
 
+<br><br>
+
 ## 🌐 Language Certifications
 ### Japanese 日本語
 - **JLPT N1** (2022)
@@ -67,13 +75,17 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - **IELTS 7.5点** (2018)
 - **TOEIC 980点** (2023)
 
-## GitHub Stats
+<br><br>
+
+## 📈 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%; height: 150px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%; height: 150px;">
 </div>
 
-## GitHub Trophies
+<br><br>
+
+## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=6&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 100%;">
 </div>
