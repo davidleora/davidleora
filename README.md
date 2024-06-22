@@ -36,17 +36,24 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 ## 🎓 Education 学歴
 
-### 1️⃣ Sutomo 1 High School, Indonesia
+### 1️⃣ Sutomo 1 High School, Indonesia 私立ストモ第１高等学校
 *July 2016 - May 2019*
 
-### 2️⃣ Electronics and Information Engineering, National Institute of Technology, Ishikawa College
+### 2️⃣ Electronics and Information Engineering, National Institute of Technology, Ishikawa College 石川工業高等専門学校
 *April 2021 – March 2024*
 
-### 3️⃣ Media Science and Engineering Program, The University of Electro-Communications Tokyo
+### 3️⃣ Media Science and Engineering Program, The University of Electro-Communications Tokyo 電気通信大学
 *April 2024 - Present*
 
 ## 🌟 Achievements 資格
-- **[Certification Name]** by [Issuer]
+2024年
+- **[第2回 AI-STEPコンペティション 準奨励賞]** by [金沢大学 先端宇宙理工学研究センター長]
+- **[優秀学生賞]** by [情報処理学会北陸支部長]
+- **[学生論文発表会優秀賞]** by [一般社団法人日本品質管理学会中部支部長、公益社団法人日本経営工学会北陸支部長]
+2021年
+- **[Nott-A-Thon: Turing 優勝]
+2019年
+- **[コンピュータサイエンス部 部長]
 
 ## 🌐 Language Certifications
 ### Japanese 日本語
