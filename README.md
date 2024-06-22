@@ -3,7 +3,6 @@
 ## About Me
 I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I have been living in Japan for five years and plan to continue staying here while pursuing a career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
 
-日本語
 インドネシア出身で、現在東京電機大学情報学部メディア科学工学プログラムの3年生です。日本に住んで5年目で、今後もここに滞在しながらソフトウェアエンジニアリングのキャリアを追求する予定です。現在、大手企業が使用しているさまざまな技術スタック（AWS、Google Cloud Platformなど）に興味があります。まだ初心者なので、アドバイスをいただけると嬉しいです！
 
 - 🔭 I’m currently working on [Project Name](Project URL)
