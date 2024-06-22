@@ -66,7 +66,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 🌐 Language Certifications
+## 🌐 Language Certifications 言語資格
 ### Japanese 日本語
 - **JLPT N1** (2022)
 - **J-Test A級** (2024)
@@ -77,7 +77,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats ステータス
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%; height: 150px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%; height: 150px;">
@@ -85,7 +85,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies トロフィー
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=6&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 100%;">
 </div>
