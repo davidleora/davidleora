@@ -54,12 +54,12 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 ## 🌟 Achievements 資格
 
 ### 2024年
-- **第2回 AI-STEPコンペティション 準奨励賞** by *金沢大学先端宇宙理工学研究センター長*
+- **第２回 AI-STEPコンペティション 準奨励賞** by *金沢大学先端宇宙理工学研究センター長*
 - **優秀学生賞** by *情報処理学会北陸支部長*
 - **学生論文発表会優秀賞** by *一般社団法人日本品質管理学会中部支部長、公益社団法人日本経営工学会北陸支部長*
 
 ### 2021年
-- **Nott-A-Thon: Turing 優勝**
+- **Nott-A-Thon: Turing Competitive Programming 優勝**
 
 ### 2019年
 - **コンピュータサイエンス部 部長**
