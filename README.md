@@ -8,7 +8,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## ⌨️ Skills スキル
+## ⌨️ Skills 『スキル』
 
 ### Languages:
 ![Pascal](https://img.shields.io/badge/Pascal-%2338B2AC.svg?style=for-the-badge&logo=Pascal&logoColor=white)
@@ -38,7 +38,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 🎓 Education 学歴
+## 🎓 Education 『学歴』
 
 ### 1️⃣  Sutomo 1 High School, Indonesia <br>『私立ストモ第１高等学校』
    *July 2016 - May 2019*
@@ -51,7 +51,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 🌟 Achievements 資格
+## 🌟 Achievements 『資格』
 
 ### 2024年
 - **第２回 AI-STEPコンペティション 準奨励賞** by *金沢大学先端宇宙理工学研究センター長*
@@ -66,7 +66,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 🌐 Language Certifications 言語資格
+## 🌐 Language Certifications 『言語資格』
 ### Japanese 日本語
 - **JLPT N1** (2022)
 - **J-Test A級** (2024)
@@ -77,7 +77,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 📈 GitHub Stats ステータス
+## 📈 GitHub Stats 『ステータス』
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%; height: 150px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%; height: 150px;">
@@ -85,7 +85,7 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 <br><br>
 
-## 🏆 GitHub Trophies トロフィー
+## 🏆 GitHub Trophies 『トロフィー』
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=6&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 100%;">
 </div>
