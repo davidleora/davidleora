@@ -68,12 +68,12 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 
 ## 🌐 Language Certifications 『言語資格』
 ### Japanese 日本語
-- **JLPT N1** (2022)
 - **J-Test A級** (2024)
+- **JLPT N1** (2022)
 
 ### English 英語
-- **IELTS 7.5点** (2018)
 - **TOEIC 980点** (2023)
+- **IELTS 7.5点** (2018)
 
 <br><br>
 
