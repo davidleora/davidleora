@@ -6,6 +6,8 @@ I come from Indonesia and I am currently a 3rd-year student at The University of
 - 📱 How to reach me: liuleora@gmail.com
 - ⚡ Fun fact: I enjoy learning about different cultures and languages! Of course, programming languages included!
 
+Here is my Notion Portfolio (日本語版)：[ポートフォリオ](https://ideation-island.notion.site/22f45fb7bf654469ba64848b8174d5a5?pvs=4)
+
 <br><br>
 
 ## ⌨️ Skills 『スキル』
