@@ -78,6 +78,10 @@ Here is my Notion Portfolio (日本語版)：[ポートフォリオ](https://ide
 - **TOEIC 980点** (2023)
 - **IELTS 7.5点** (2018)
 
+### Others 他に話せる言語
+- **Indonesian** (Native)
+- **Mandarin** (Daily Conversation)
+
 <br><br>
 
 ## 📈 GitHub Stats 『ステータス』
