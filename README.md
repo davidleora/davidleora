@@ -79,7 +79,7 @@ Here is my Notion Portfolio (日本語版)：[ポートフォリオ](https://ide
 - **IELTS 7.5点** (2018)
 
 ### Others 他に話せる言語
-- **Indonesian インドネシア後** (Native)
+- **Indonesian インドネシア語** (Native)
 - **Mandarin 中国語** (Daily Conversation)
 
 <br><br>
