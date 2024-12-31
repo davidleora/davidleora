@@ -75,7 +75,7 @@ Here is my Notion Portfolio (日本語版)：[ポートフォリオ](https://ide
 - **JLPT N1** (2022)
 
 ### English 英語
-- **TOEIC 980点** (2023)
+- **TOEIC 990点** (2024)
 - **IELTS 7.5点** (2018)
 
 ### Others 他に話せる言語
