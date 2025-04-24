@@ -1,6 +1,6 @@
 # Hi there, I'm David! 🫡
 
-I come from Indonesia and I am currently a 3rd-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I can speak four languages: Indonesian, English, Mandarin, and Japanese. I have been living in Japan for five years and plan to continue staying here for now while pursuing my career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
+I come from Indonesia and I am currently a 4th-year student at The University of Electro-Communications Tokyo, studying in the Department of Informatics, Media Science and Engineering Program. I can speak four languages: Indonesian, English, Mandarin, and Japanese. I have been living in Japan for five years and plan to continue staying here for now while pursuing my career in Software Engineering. I am particularly interested in various tech stacks used by big companies, such as AWS and Google Cloud Platform. As a beginner, I welcome any advice or suggestions!
 
 - 🌱 I’m currently focusing on learning Web Development, Data Science, and Computer Graphics
 - 📱 How to reach me: liuleora@gmail.com
