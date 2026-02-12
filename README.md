@@ -49,7 +49,7 @@ Here is my Notion Portfolio (日本語版)：[ポートフォリオ](https://ide
    *April 2021 – March 2024*
 
 ### 3️⃣  Media Science and Engineering Program, The University of Electro-Communications Tokyo <br>『電気通信大学 I類 メディア情報学プログラム』
-   *April 2024 - Present*
+   *April 2024 - March 2026*
 
 <br><br>
 
