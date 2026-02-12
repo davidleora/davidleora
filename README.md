@@ -88,14 +88,26 @@ Here is my Notion Portfolio (日本語版)：[ポートフォリオ](https://ide
 <br><br>
 
 ## 📈 GitHub Stats 『ステータス』
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidleora&show_icons=true&theme=radical" alt="David's GitHub Stats" style="width: 48%; height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleora&layout=compact&theme=radical" alt="David's Top Languages" style="width: 48%; height: 150px;">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidleora&theme=radical" alt="David's GitHub Streak"
+  style="width: 48%; height: 150px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidleora&theme=radical" alt="David's
+  GitHub Stats" style="width: 48%; height: 150px;">
+  </div>
+
+  <br><br>
+
+## 🏆 GitHub Profile Summary 『プロフィール概要』
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidleora&theme=radical"
+alt="David's Profile Details" style="width: 100%;">
 </div>
 
-<br><br>
+<br>
 
-## 🏆 GitHub Trophies 『トロフィー』
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidleora&theme=radical&column=6&margin-w=15&margin-h=15" alt="David's GitHub Trophies" style="width: 100%;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidleora&theme=radical"
+alt="Top Languages by Repo" style="width: 48%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidleora&theme=radical"
+ alt="Top Languages by Commit" style="width: 48%;">
 </div>
